@@ -1,0 +1,46 @@
+function name = camel case ex-onClick
+function body (code description )
+function starter ()
+function return type
+
+EXAMPLE:
+(non-return type)
+import java.util.*;
+class Fun{
+    static void sum(){
+        int a =10;
+        int b=90;
+        System.out.println(a+b);
+    }
+    public static void main (String ar[]){
+    sum();
+
+    }
+}
+
+
+(return type)
+    static int sum(){
+        int a =10;
+         int b=90;
+         return a+b;
+    }
+
+        public static void main (String ar[]){
+    System.out.println(sum());
+
+    }
+
+
+(string)
+    static String sum(){
+    
+         return "welcome!";
+    }
+
+
+        public static void main (String ar[]){
+    System.out.println(sum());
+
+    }
+

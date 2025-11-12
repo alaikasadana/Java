@@ -1,0 +1,36 @@
+array way of declarring array
+
+
+
+        // Types of declaration 
+        // int arr[];  cpp approach
+        // int [] arr; 
+        // int[] arr1; 
+        // int []arr2;
+
+//       way of initialization
+        // int []arr= new int[];   // invalid  way 
+
+
+        // int []arr= new int[5]; 
+        int []arr=new int[]{1,2,3,4};   // correct method 
+
+
+        for (int i:arr){
+            System.out.println(i);
+        }
+
+        
+// mid value 
+     1) int size = arr1.length/2;
+System.out.println("mid value =" + arr1[size]);
+
+  
+     2) for(int i=0 ; i<arr1.length; i++){
+    if(i==arr1.length/2){
+        System.out.println("mid value =" + arr1[i]);
+    }
+}
+
+
+
