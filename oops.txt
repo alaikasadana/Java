@@ -1,0 +1,11 @@
+oops concept : oops is a paradime style of code 
+two types of paradime are there : one is pop and one is oops 
+
+pop - procedure oriented programming . procedure means all the task are performed by creating function.
+oops - all the task are performed by creating classes. 
+
+1)why oops perfer over pop ?
+ans: oops provide reuseable code structure with the help of inheritence and polymorphism and provide security with the help of 
+encapsulation and abstraction . 
+
+
